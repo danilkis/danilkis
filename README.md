@@ -31,4 +31,3 @@ A long running project of mine. I’ve been making and tweaking my smart home ba
 
 A C# wrapper for Yandex.schedules api.
 The project is in half-finished phase, and demo of library is ready. Some bugs needs to be fixed and maybe i’ll upload it
-# Thanks for your support and help❤️
