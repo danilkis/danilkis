@@ -1,3 +1,4 @@
+[🇷🇺](README-RU.md)
 # What I’m doing and what I’m creating?
 
 I’m mostly working with C# and kotlin. But really enjoy working with the hardware and server side of things. I have a 3D printer (Ender 3 pro with a couple of mods) and planning to post some projects that uses 3d printed parts
