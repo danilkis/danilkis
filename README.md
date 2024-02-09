@@ -6,9 +6,11 @@ I’m mostly working with C# and kotlin. But really enjoy working with the hardw
 ## GuapSchedule
 You can check the code here -> [API](https://github.com/danilkis/GuapScheduleApi.git) 
 A schedule app for SUAI college. Made using FastApi python for API and kotlin compose for the app. Currently version 3 is in development. Stay tuned for updates! Made in collaboration with:
+
 [Erich Helvig](https://github.com/bulkabuka) - Designer
+
 [TRiks2004](https://github.com/TRiks2004) - Moblie developer
-![[telegram-cloud-photo-size-2-5391022188523538844-y.jpg]]
+![Untitled](Photos/telegram-cloud-photo-size-2-5391022188523538844-y.jpg)
 
 ## [MaterialHass](https://github.com/danilkis/MaterialHass.git)
 Home assistant android client with material you support. Will be made multiplatform in the future using Kotlin Compose Multiplatform.
@@ -16,7 +18,7 @@ Home assistant android client with material you support. Will be made multiplatf
 
 ## [WorkMan](https://github.com/danilkis/Workman.git)
 A mobile app to handle all of your workshop needs, self-host supabase on your server and be free from the cloud! This app works in both Russian and English. Any contributions are welcome
-![[telegram-cloud-photo-size-2-5339525066788033455-y.jpg]]
+![Untitled](Photos/telegram-cloud-photo-size-2-5339525066788033455-y.jpg)
 ### Home assistant smart home
 
 A long running project of mine. I’ve been making and tweaking my smart home based on home assistant since 2017-18.
